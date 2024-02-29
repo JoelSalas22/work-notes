@@ -6,7 +6,10 @@
 
 ## Notes
 
-### Console 
-* [Using jq in Console](Console/jq-notes.md)
+### Console
+
+### Terminal
+* [Intro to jq](Terminal/jq-notes.md)
+
 
 ### Articles
