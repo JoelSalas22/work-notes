@@ -68,7 +68,11 @@
   * If you're using a NAS, the network can also impact how many IOPS can be delivered.
   * Think of IOPS as the speed at which the engine of a race car runs at, revoluting per second.
 * ***Throughput*** (_MB/s_) - The amount of data than can be transferred in a given second.
-  * As the end speed of the race ![image](/assets/image_argo7m47j.png)car.
+  * As the end speed of the race
+
+<p align="center">
+  <img src="/assets/image_argo7m47j.png" alt="image" width="300"/>
+</p>
 
 > $$ IOSize * IOPS = Throughputs $$
 > 16K x 100IOPS = 1.6MB/s
